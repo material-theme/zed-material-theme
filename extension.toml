@@ -1,0 +1,7 @@
+id = "material.theme"
+name = "Material Theme (Original) — Free"
+version = "1.0.0"
+schema_version = 1
+authors = ["Mattia Astorino"]
+description = "The most epic theme now for Zed editor."
+repository = "https://github.com/material-theme/zed-material-theme"
